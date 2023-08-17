@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2023-07-25 at 19:14 (GMT+3)-->
+<!--Last edited by Ukelele version 359 on 2023-08-17 at 16:27 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="126" id="-20202" name="English - Universal" maxout="3">
     <layouts>
@@ -316,7 +316,7 @@
             <key code="46" output=""/>
             <key code="47" output="["/>
             <key code="48" output="&#x0009;"/>
-            <key code="49" output=" "/>
+            <key code="49" output=" "/>
             <key code="50" output="`"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
