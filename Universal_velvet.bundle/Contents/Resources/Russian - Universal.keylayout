@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2023-09-08 at 17:21 (GMT+3)-->
+<!--Last edited by Ukelele version 359 on 2023-09-08 at 18:41 (GMT+3)-->
 <!--Created by Ukelele version 1.8 on 2008-10-24 at 13:25 (YEKST)-->
 <keyboard group="126" id="-1901" name="Russian - Universal" maxout="3">
     <layouts>
@@ -405,13 +405,13 @@
             <key code="20" output="¹⁄₃"/>
             <key code="21" output="¹⁄₄"/>
             <key code="22" action=" 3"/>
-            <key code="23" output=""/>
+            <key code="23" output="“"/>
             <key code="24" output="±"/>
-            <key code="25" output="“"/>
-            <key code="26" output=""/>
+            <key code="25" output="{"/>
+            <key code="26" output="”"/>
             <key code="27" output="—"/>
             <key code="28" output="„"/>
-            <key code="29" output="”"/>
+            <key code="29" output="}"/>
             <key code="30" output="}"/>
             <key code="31" action="Ѳ"/>
             <key code="32" action="Ѵ"/>
